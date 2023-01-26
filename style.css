@@ -200,6 +200,11 @@ nav {
     font-size: 0.8rem;
 }
 
+.actors-header h2, .shop-header h2 {
+    padding: 40px 0;
+    margin: 0;
+}
+
 .shop-header {
     text-align: center;
     font-size: 1.5rem;
